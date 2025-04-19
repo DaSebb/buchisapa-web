@@ -1,4 +1,4 @@
 # buchisapa-web
 website for buchisapa lodge
 
-what up
+visite here: https://dasebb.github.io/buchisapa-web/
